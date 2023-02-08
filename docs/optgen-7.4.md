@@ -5,8 +5,8 @@ nav_order: 3
 
 # OptGen 7.4.49
 
-ðŸ“… Date: 2022-03-22
-ðŸ”— Download:
+📅 Date: 2022-03-22
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.49-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.49-setup-linux.zip)
@@ -22,8 +22,8 @@ nav_order: 3
 
 # OptGen 7.4.48
 
-ðŸ“… Date: 2022-02-14
-ðŸ”— Download:
+📅 Date: 2022-02-14
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.48-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.48-setup-linux.zip)
@@ -36,8 +36,8 @@ nav_order: 3
 
 # OptGen 7.4.47
 
-ðŸ“… Date: 2022-02-01
-ðŸ”— Download:
+📅 Date: 2022-02-01
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.47-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.47-setup-linux.zip)
@@ -50,8 +50,8 @@ nav_order: 3
 
 # OptGen 7.4.46
 
-ðŸ“… Date: 2021-12-09
-ðŸ”— Download:
+📅 Date: 2021-12-09
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.46-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.46-setup-linux.zip)
@@ -63,8 +63,8 @@ nav_order: 3
 
 # OptGen 7.4.45
 
-ðŸ“… Date: 2021-10-05
-ðŸ”— Download:
+📅 Date: 2021-10-05
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.45-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.45-setup-linux.zip)
@@ -80,8 +80,8 @@ nav_order: 3
 
 # OptGen 7.4.44
 
-ðŸ“… Date: 2021-08-26
-ðŸ”— Download:
+📅 Date: 2021-08-26
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.44-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.44-setup-linux.zip)
@@ -93,8 +93,8 @@ nav_order: 3
 
 # OptGen 7.4.43
 
-ðŸ“… Date: 2021-08-26
-ðŸ”— Download:
+📅 Date: 2021-08-26
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.43-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.43-setup-linux.zip)
@@ -108,8 +108,8 @@ nav_order: 3
 
 # OptGen 7.4.42
 
-ðŸ“… Date: 2021-08-19
-ðŸ”— Download:
+📅 Date: 2021-08-19
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.42-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.42-setup-linux.zip)
@@ -121,8 +121,8 @@ nav_order: 3
 
 # OptGen 7.4.41
 
-ðŸ“… Date: 2021-08-11
-ðŸ”— Download:
+📅 Date: 2021-08-11
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.41-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.41-setup-linux.zip)
@@ -140,8 +140,8 @@ nav_order: 3
 
 # OptGen 7.4.40
 
-ðŸ“… Date: 2021-06-28
-ðŸ”— Download:
+📅 Date: 2021-06-28
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.40-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.40-setup-linux.zip)
@@ -168,8 +168,8 @@ nav_order: 3
 
 # OptGen 7.4.39
 
-ðŸ“… Date: 2021-05-20
-ðŸ”— Download:
+📅 Date: 2021-05-20
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.39-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.39-setup-linux.zip)
@@ -183,8 +183,8 @@ nav_order: 3
 
 # OptGen 7.4.38
 
-ðŸ“… Date: 2021-03-18
-ðŸ”— Download:
+📅 Date: 2021-03-18
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.38-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.38-setup-linux.zip)
@@ -196,8 +196,8 @@ nav_order: 3
 
 # OptGen 7.4.37
 
-ðŸ“… Date: 2021-02-12
-ðŸ”— Download:
+📅 Date: 2021-02-12
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.37-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.37-setup-linux.zip)
@@ -209,8 +209,8 @@ nav_order: 3
 
 # OptGen 7.4.36
 
-ðŸ“… Date: 2021-02-01
-ðŸ”— Download:
+📅 Date: 2021-02-01
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.36-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.36-setup-linux.zip)
@@ -222,8 +222,8 @@ nav_order: 3
 
 # OptGen 7.4.35
 
-ðŸ“… Date: 2020-11-30
-ðŸ”— Download:
+📅 Date: 2020-11-30
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.35-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.35-setup-linux.zip)
@@ -236,8 +236,8 @@ nav_order: 3
 
 # OptGen 7.4.34
 
-ðŸ“… Date: 2020-10-16
-ðŸ”— Download:
+📅 Date: 2020-10-16
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.34-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.34-setup-linux.zip)
@@ -249,8 +249,8 @@ nav_order: 3
 
 # OptGen 7.4.33
 
-ðŸ“… Date: 2020-09-22
-ðŸ”— Download:
+📅 Date: 2020-09-22
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.33-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.33-setup-linux.zip)
@@ -268,8 +268,8 @@ nav_order: 3
 
 # OptGen 7.4.32
 
-ðŸ“… Date: 2020-09-15
-ðŸ”— Download:
+📅 Date: 2020-09-15
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.32-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.32-setup-linux.zip)
@@ -284,8 +284,8 @@ nav_order: 3
 
 # OptGen 7.4.31
 
-ðŸ“… Date: 2020-08-27
-ðŸ”— Download:
+📅 Date: 2020-08-27
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.31-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.31-setup-linux.zip)
@@ -297,8 +297,8 @@ nav_order: 3
 
 # OptGen 7.4.30
 
-ðŸ“… Date: 2020-07-22
-ðŸ”— Download:
+📅 Date: 2020-07-22
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.30-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.30-setup-linux.zip)
@@ -315,8 +315,8 @@ nav_order: 3
 
 # OptGen 7.4.29
 
-ðŸ“… Date: 2020-07-07
-ðŸ”— Download:
+📅 Date: 2020-07-07
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.29-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.29-setup-linux.zip)
@@ -328,8 +328,8 @@ nav_order: 3
 
 # OptGen 7.4.28
 
-ðŸ“… Date: 2020-07-07
-ðŸ”— Download:
+📅 Date: 2020-07-07
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.28-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.28-setup-linux.zip)
@@ -345,8 +345,8 @@ nav_order: 3
 
 # OptGen 7.4.27
 
-ðŸ“… Date: 2020-06-24
-ðŸ”— Download:
+📅 Date: 2020-06-24
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.27-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.27-setup-linux.zip)
@@ -359,8 +359,8 @@ nav_order: 3
 
 # OptGen 7.4.26
 
-ðŸ“… Date: 2020-06-05
-ðŸ”— Download:
+📅 Date: 2020-06-05
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.26-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.26-setup-linux.zip)
@@ -377,8 +377,8 @@ nav_order: 3
 
 # OptGen 7.4.25
 
-ðŸ“… Date: 2020-05-17
-ðŸ”— Download:
+📅 Date: 2020-05-17
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.25-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.25-setup-linux.zip)
@@ -390,8 +390,8 @@ nav_order: 3
 
 # OptGen 7.4.24
 
-ðŸ“… Date: 2020-05-06
-ðŸ”— Download:
+📅 Date: 2020-05-06
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.24-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.24-setup-linux.zip)
@@ -403,8 +403,8 @@ nav_order: 3
 
 # OptGen 7.4.23
 
-ðŸ“… Date: 2020-04-28
-ðŸ”— Download:
+📅 Date: 2020-04-28
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.23-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.23-setup-linux.zip)
@@ -416,8 +416,8 @@ nav_order: 3
 
 # OptGen 7.4.22
 
-ðŸ“… Date: 2020-04-27
-ðŸ”— Download:
+📅 Date: 2020-04-27
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.22-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.22-setup-linux.zip)
@@ -429,8 +429,8 @@ nav_order: 3
 
 # OptGen 7.4.21
 
-ðŸ“… Date: 2020-03-20
-ðŸ”— Download:
+📅 Date: 2020-03-20
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.21-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.21-setup-linux.zip)
@@ -443,8 +443,8 @@ nav_order: 3
 
 # OptGen 7.4.20
 
-ðŸ“… Date: 2020-03-05
-ðŸ”— Download:
+📅 Date: 2020-03-05
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.20-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.20-setup-linux.zip)
@@ -456,8 +456,8 @@ nav_order: 3
 
 # OptGen 7.4.19
 
-ðŸ“… Date: 2020-02-27
-ðŸ”— Download:
+📅 Date: 2020-02-27
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.19-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.19-setup-linux.zip)
@@ -471,8 +471,8 @@ nav_order: 3
 
 # OptGen 7.4.18
 
-ðŸ“… Date: 2020-02-15
-ðŸ”— Download:
+📅 Date: 2020-02-15
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.18-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.18-setup-linux.zip)
@@ -485,8 +485,8 @@ nav_order: 3
 
 # OptGen 7.4.17
 
-ðŸ“… Date: 2020-02-11
-ðŸ”— Download:
+📅 Date: 2020-02-11
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.17-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.17-setup-linux.zip)
@@ -501,8 +501,8 @@ nav_order: 3
 
 # OptGen 7.4.16
 
-ðŸ“… Date: 2020-02-07
-ðŸ”— Download:
+📅 Date: 2020-02-07
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.16-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.16-setup-linux.zip)
@@ -519,8 +519,8 @@ nav_order: 3
 
 # OptGen 7.4.15
 
-ðŸ“… Date: 2019-12-04
-ðŸ”— Download:
+📅 Date: 2019-12-04
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.15-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.15-setup-linux.zip)
@@ -532,8 +532,8 @@ nav_order: 3
 
 # OptGen 7.4.14
 
-ðŸ“… Date: 2019-11-13
-ðŸ”— Download:
+📅 Date: 2019-11-13
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.14-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.14-setup-linux.zip)
@@ -545,8 +545,8 @@ nav_order: 3
 
 # OptGen 7.4.13
 
-ðŸ“… Date: 2019-11-05
-ðŸ”— Download:
+📅 Date: 2019-11-05
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.13-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.13-setup-linux.zip)
@@ -558,8 +558,8 @@ nav_order: 3
 
 # OptGen 7.4.12
 
-ðŸ“… Date: 2019-11-04
-ðŸ”— Download:
+📅 Date: 2019-11-04
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.12-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.12-setup-linux.zip)
@@ -571,8 +571,8 @@ nav_order: 3
 
 # OptGen 7.4.11
 
-ðŸ“… Date: 2019-10-31
-ðŸ”— Download:
+📅 Date: 2019-10-31
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.11-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.11-setup-linux.zip)
@@ -590,8 +590,8 @@ nav_order: 3
 
 # OptGen 7.4.10
 
-ðŸ“… Date: 2019-10-04
-ðŸ”— Download:
+📅 Date: 2019-10-04
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.10-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.10-setup-linux.zip)
@@ -603,8 +603,8 @@ nav_order: 3
 
 # OptGen 7.4.9
 
-ðŸ“… Date: 2019-10-04
-ðŸ”— Download:
+📅 Date: 2019-10-04
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.9-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.9-setup-linux.zip)
@@ -620,8 +620,8 @@ nav_order: 3
 
 # OptGen 7.4.8
 
-ðŸ“… Date: 2019-09-26
-ðŸ”— Download:
+📅 Date: 2019-09-26
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.8-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.8-setup-linux.zip)
@@ -634,8 +634,8 @@ nav_order: 3
 
 # OptGen 7.4.7
 
-ðŸ“… Date: 2019-09-12
-ðŸ”— Download:
+📅 Date: 2019-09-12
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.7-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.7-setup-linux.zip)
@@ -649,8 +649,8 @@ nav_order: 3
 
 # OptGen 7.4.6
 
-ðŸ“… Date: 2019-08-12
-ðŸ”— Download:
+📅 Date: 2019-08-12
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.6-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.6-setup-linux.zip)
@@ -664,8 +664,8 @@ nav_order: 3
 
 # OptGen 7.4.5
 
-ðŸ“… Date: 2019-08-12
-ðŸ”— Download:
+📅 Date: 2019-08-12
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.5-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.5-setup-linux.zip)
@@ -681,8 +681,8 @@ nav_order: 3
 
 # OptGen 7.4.4
 
-ðŸ“… Date: 2019-07-15
-ðŸ”— Download:
+📅 Date: 2019-07-15
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.4-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.4-setup-linux.zip)
@@ -694,8 +694,8 @@ nav_order: 3
 
 # OptGen 7.4.3
 
-ðŸ“… Date: 2019-07-10
-ðŸ”— Download:
+📅 Date: 2019-07-10
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.3-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.3-setup-linux.zip)
@@ -709,8 +709,8 @@ nav_order: 3
 
 # OptGen 7.4.2
 
-ðŸ“… Date: 2019-07-02
-ðŸ”— Download:
+📅 Date: 2019-07-02
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.2-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.2-setup-linux.zip)
@@ -726,8 +726,8 @@ nav_order: 3
 
 # OptGen 7.4.1
 
-ðŸ“… Date: 2019-06-27
-ðŸ”— Download:
+📅 Date: 2019-06-27
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.1-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.1-setup-linux.zip)
@@ -739,8 +739,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc22
 
-ðŸ“… Date: 2019-06-18
-ðŸ”— Download:
+📅 Date: 2019-06-18
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc22-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc22-setup-linux.zip)
@@ -752,8 +752,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc21
 
-ðŸ“… Date: 2019-06-07
-ðŸ”— Download:
+📅 Date: 2019-06-07
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc21-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc21-setup-linux.zip)
@@ -765,8 +765,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc20
 
-ðŸ“… Date: 2019-06-04
-ðŸ”— Download:
+📅 Date: 2019-06-04
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc20-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc20-setup-linux.zip)
@@ -778,8 +778,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc19
 
-ðŸ“… Date: 2019-05-29
-ðŸ”— Download:
+📅 Date: 2019-05-29
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc19-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc19-setup-linux.zip)
@@ -793,8 +793,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc18
 
-ðŸ“… Date: 2019-05-24
-ðŸ”— Download:
+📅 Date: 2019-05-24
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc18-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc18-setup-linux.zip)
@@ -806,8 +806,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc17
 
-ðŸ“… Date: 2019-05-14
-ðŸ”— Download:
+📅 Date: 2019-05-14
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc17-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc17-setup-linux.zip)
@@ -825,8 +825,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc16
 
-ðŸ“… Date: 2019-04-30
-ðŸ”— Download:
+📅 Date: 2019-04-30
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc16-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc16-setup-linux.zip)
@@ -841,8 +841,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc15
 
-ðŸ“… Date: 2019-04-03
-ðŸ”— Download:
+📅 Date: 2019-04-03
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc15-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc15-setup-linux.zip)
@@ -855,8 +855,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc14
 
-ðŸ“… Date: 2019-04-03
-ðŸ”— Download:
+📅 Date: 2019-04-03
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc14-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc14-setup-linux.zip)
@@ -871,8 +871,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc13
 
-ðŸ“… Date: 2019-03-28
-ðŸ”— Download:
+📅 Date: 2019-03-28
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc13-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc13-setup-linux.zip)
@@ -887,8 +887,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc12
 
-ðŸ“… Date: 2019-03-28
-ðŸ”— Download:
+📅 Date: 2019-03-28
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc12-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc12-setup-linux.zip)
@@ -913,8 +913,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc11
 
-ðŸ“… Date: 2019-02-12
-ðŸ”— Download:
+📅 Date: 2019-02-12
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc11-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc11-setup-linux.zip)
@@ -953,8 +953,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc10
 
-ðŸ“… Date: 2018-10-26
-ðŸ”— Download:
+📅 Date: 2018-10-26
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc10-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc10-setup-linux.zip)
@@ -966,8 +966,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc9
 
-ðŸ“… Date: 2018-10-04
-ðŸ”— Download:
+📅 Date: 2018-10-04
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc9-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc9-setup-linux.zip)
@@ -980,8 +980,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc8
 
-ðŸ“… Date: 2018-09-28
-ðŸ”— Download:
+📅 Date: 2018-09-28
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc8-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc8-setup-linux.zip)
@@ -993,8 +993,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc7
 
-ðŸ“… Date: 2018-07-26
-ðŸ”— Download:
+📅 Date: 2018-07-26
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc7-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc7-setup-linux.zip)
@@ -1006,8 +1006,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc6
 
-ðŸ“… Date: 2018-07-26
-ðŸ”— Download:
+📅 Date: 2018-07-26
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc6-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc6-setup-linux.zip)
@@ -1028,8 +1028,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc5
 
-ðŸ“… Date: 2018-06-26
-ðŸ”— Download:
+📅 Date: 2018-06-26
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc5-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc5-setup-linux.zip)
@@ -1041,8 +1041,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc4
 
-ðŸ“… Date: 2018-05-29
-ðŸ”— Download:
+📅 Date: 2018-05-29
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc4-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc4-setup-linux.zip)
@@ -1057,8 +1057,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc3
 
-ðŸ“… Date: 2018-05-21
-ðŸ”— Download:
+📅 Date: 2018-05-21
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc3-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc3-setup-linux.zip)
@@ -1071,8 +1071,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc2
 
-ðŸ“… Date: 2018-05-16
-ðŸ”— Download:
+📅 Date: 2018-05-16
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc2-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc2-setup-linux.zip)
@@ -1092,8 +1092,8 @@ nav_order: 3
 
 # OptGen 7.4.0rc1
 
-ðŸ“… Date: 2018-04-30
-ðŸ”— Download:
+📅 Date: 2018-04-30
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc1-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0rc1-setup-linux.zip)
@@ -1118,8 +1118,8 @@ nav_order: 3
 
 # OptGen 7.4.0
 
-ðŸ“… Date: 2018-04-01
-ðŸ”— Download:
+📅 Date: 2018-04-01
+🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.4.0-setup-linux.zip)
