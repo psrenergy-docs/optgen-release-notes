@@ -17,7 +17,7 @@ nav_order: 2
 
 # OptGen 8.0.11
 
-📅 Date: 2023-01-23
+📅 Date: 2023-01-23<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.11-setup.zip)
 \|
@@ -44,7 +44,7 @@ nav_order: 2
 
 # OptGen 8.0.10
 
-📅 Date: 2023-01-11
+📅 Date: 2023-01-11<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.10-setup.zip)
 \|
@@ -65,7 +65,7 @@ nav_order: 2
 
 # OptGen 8.0.9
 
-📅 Date: 2022-11-30
+📅 Date: 2022-11-30<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.9-setup.zip)
 \|
@@ -90,7 +90,7 @@ nav_order: 2
 
 # OptGen 8.0.8
 
-📅 Date: 2022-11-16
+📅 Date: 2022-11-16<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.8-setup.zip)
 \|
@@ -104,7 +104,7 @@ nav_order: 2
 
 # OptGen 8.0.7
 
-📅 Date: 2022-11-01
+📅 Date: 2022-11-01<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.7-setup.zip)
 \|
@@ -117,7 +117,7 @@ nav_order: 2
 
 # OptGen 8.0.6
 
-📅 Date: 2022-10-28
+📅 Date: 2022-10-28<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.6-setup.zip)
 \|
@@ -140,7 +140,7 @@ nav_order: 2
 
 # OptGen 8.0.5
 
-📅 Date: 2022-10-03
+📅 Date: 2022-10-03<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.5-setup.zip)
 \|
@@ -153,7 +153,7 @@ nav_order: 2
 
 # OptGen 8.0.4
 
-📅 Date: 2022-09-26
+📅 Date: 2022-09-26<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.4-setup.zip)
 \|
@@ -171,7 +171,7 @@ nav_order: 2
 
 # OptGen 8.0.3
 
-📅 Date: 2022-09-08
+📅 Date: 2022-09-08<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.3-setup.zip)
 \|
@@ -187,7 +187,7 @@ nav_order: 2
 
 # OptGen 8.0.2
 
-📅 Date: 2022-07-25
+📅 Date: 2022-07-25<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.2-setup.zip)
 \|
@@ -202,7 +202,7 @@ nav_order: 2
 
 # OptGen 8.0.1
 
-📅 Date: 2022-07-11
+📅 Date: 2022-07-11<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.1-setup.zip)
 \|
@@ -216,7 +216,7 @@ nav_order: 2
 
 # OptGen 8.0.0
 
-📅 Date: 2022-06-24
+📅 Date: 2022-06-24<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.0-setup.zip)
 \|

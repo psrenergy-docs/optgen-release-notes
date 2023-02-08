@@ -5,7 +5,7 @@ nav_order: 4
 
 # OptGen 7.2.17
 
-📅 Date: 2018-12-07
+📅 Date: 2018-12-07<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.2.17-setup.zip)
 \|
@@ -21,7 +21,7 @@ nav_order: 4
 
 # OptGen 7.2.17rc1
 
-📅 Date: 2018-11-30
+📅 Date: 2018-11-30<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.2.17rc1-setup.zip)
 \|
@@ -38,7 +38,7 @@ nav_order: 4
 
 # OptGen 7.2.16
 
-📅 Date: 2018-10-19
+📅 Date: 2018-10-19<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.2.16-setup.zip)
 \|
@@ -60,7 +60,7 @@ nav_order: 4
 
 # OptGen 7.2.15rc5
 
-📅 Date: 2018-08-02
+📅 Date: 2018-08-02<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.2.15rc5-setup.zip)
 \|
@@ -84,7 +84,7 @@ nav_order: 4
 
 # OptGen 7.2.15rc4
 
-📅 Date: 2018-04-06
+📅 Date: 2018-04-06<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.2.15rc4-setup.zip)
 \|
@@ -101,7 +101,7 @@ nav_order: 4
 
 # OptGen 7.2.15rc3
 
-📅 Date: 2018-02-08
+📅 Date: 2018-02-08<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.2.15rc3-setup.zip)
 \|
@@ -115,7 +115,7 @@ nav_order: 4
 
 # OptGen 7.2.15rc2
 
-📅 Date: 2018-01-31
+📅 Date: 2018-01-31<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.2.15rc2-setup.zip)
 \|
@@ -129,7 +129,7 @@ nav_order: 4
 
 # OptGen 7.2.14
 
-📅 Date: 2017-12-07
+📅 Date: 2017-12-07<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.2.14-setup.zip)
 \|
@@ -142,7 +142,7 @@ nav_order: 4
 
 # OptGen 7.2.13
 
-📅 Date: 2017-11-27
+📅 Date: 2017-11-27<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.2.13-setup.zip)
 \|
@@ -158,7 +158,7 @@ nav_order: 4
 
 # OptGen 7.2.12
 
-📅 Date: 2017-09-13
+📅 Date: 2017-09-13<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.2.12-setup.zip)
 \|
@@ -183,7 +183,7 @@ nav_order: 4
 
 # OptGen 7.2.11
 
-📅 Date: 2017-01-18
+📅 Date: 2017-01-18<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-7.2.11-setup.zip)
 \|
