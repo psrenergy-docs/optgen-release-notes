@@ -2,6 +2,23 @@
 title: "OptGen 8.0"
 nav_order: 2
 ---
+# OptGen 8.0.13
+
+📅 Date: 2023-02-28<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.13-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.13-setup-linux.zip)
+
+## Fixed bugs
+
+* IHM
+  * Fixed an error when adding N/I projects
+
+* OptGen 1
+  * Increased the feasibility tolerance for the min/max constraints
+  * Fixed an error related to min/max constraints with a maximum date after the end of the horizon. In this case, only minimum constraints may be relaxed
+
 # OptGen 8.0.12
 
 📅 Date: 2023-02-08<br>
