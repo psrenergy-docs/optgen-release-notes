@@ -2,6 +2,19 @@
 title: "OptGen 8.0"
 nav_order: 2
 ---
+# OptGen 8.0.14
+
+📅 Date: 2023-03-07<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.14-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.14-setup-linux.zip)
+
+## Fixed bugs
+
+* OptGen 2
+  * Fixed an error related to the commitment variable of thermal projects with integer investment variable
+
 # OptGen 8.0.13
 
 📅 Date: 2023-02-28<br>
