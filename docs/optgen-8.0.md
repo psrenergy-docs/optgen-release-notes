@@ -2,6 +2,19 @@
 title: "OptGen 8.0"
 nav_order: 2
 ---
+# OptGen 8.0.16
+
+📅 Date: 2023-04-16<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.16-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.16-setup-linux.zip)
+
+## Fixed bugs
+
+* OptGen 1
+  * Fixed errors related to installation on Linux OS
+
 # OptGen 8.0.15
 
 📅 Date: 2023-03-23<br>
