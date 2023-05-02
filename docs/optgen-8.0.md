@@ -2,6 +2,25 @@
 title: "OptGen 8.0"
 nav_order: 2
 ---
+
+# OptGen 8.0.17
+
+📅 Date: 2023-05-02<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.17-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.17-setup-linux.zip)
+
+## Fixed bugs
+
+* OptGen 1
+  * Fixed an error related to expansion decisions dates when the case has weekly stages
+  
+* OptGen 2
+  * Fixed an error in which the model did not correct the firm capacity of thermal plants with decommissioning
+  * Fix relationship between thermal plants and gas nodes when there are multi-fuel plants
+  * Fixed an error related to CSP variables for future non-project plants
+
 # OptGen 8.0.16
 
 📅 Date: 2023-04-16<br>
