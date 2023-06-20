@@ -2,6 +2,30 @@
 title: "OptGen 8.0"
 nav_order: 2
 ---
+# OptGen 8.0.18
+
+📅 Date: 2023-06-20<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.18-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.18-setup-linux.zip)
+
+## Fixed bugs
+* OptGen 1
+  * Now the model has an option to build precedence constraints with continuous variable projects where the first one must be fully built before the following project
+
+## Fixed bugs
+
+* OptGen 1
+  * Fixed an error related to the integration between OptGen and SDDP inflows through the forw.dat file
+  * Fixed an error related to the "VIVF" option
+
+* OptGen 2
+  * Fixed an error related to the standalone linux installation
+  * Fixed the relationship between multi fuel thermal plants and the gas network nodes
+  * Fixed an error related to area import/export constraints when the integration with NetPlan is turned on
+  * Fixed an error related to the considering of the fail probability of renewable plants
+  * The model now considers thhe flag to disconsider a demand or not in SDDP
 
 # OptGen 8.0.17
 
