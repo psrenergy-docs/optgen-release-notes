@@ -2,6 +2,23 @@
 title: "OptGen 8.0"
 nav_order: 2
 ---
+# OptGen 8.0.19
+
+📅 Date: 2023-06-29<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.19-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.19-setup-linux.zip)
+
+## Fixed bugs
+
+* OptGen 1
+  * Fix an error related to unit entrance schedule modeling
+  * Fix an error related to PSRIO on PSRCloud executions
+
+* OptGen 2
+  * Fix an error where substituted existing thermal plants were providing thermal reserve to the model
+
 # OptGen 8.0.18
 
 📅 Date: 2023-06-20<br>
@@ -10,7 +27,7 @@ nav_order: 2
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.18-setup-linux.zip)
 
-## Fixed bugs
+## New Features and Improvements
 * OptGen 1
   * Now the model has an option to build precedence constraints with continuous variable projects where the first one must be fully built before the following project
 
