@@ -2,6 +2,37 @@
 title: "OptGen 8.0"
 nav_order: 2
 ---
+# OptGen 8.0.20
+
+📅 Date: 2023-09-18<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.20-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.20-setup-linux.zip)
+
+## New Features and Improvements
+
+* IHM
+  * Added a functionality to add a description of the case
+
+## Fixed Bugs
+
+* OptGen 1
+  * Fixed an error related to the SDDP import functionality (including all technologies, such as batteries and eletrification)
+  * Fixed an error related to the substitution of agents (now the model is allowed to have multiple projects replacing the same agent)
+  * Fixed an error related to weekly stages cases
+  * Fixed an error related to obligatory projects with fixed date out of case horizon
+  * Fixed an error related to the file "sddpconv" that it's not created by SDDP anymore
+  * Fixed an error on the entrance unit shedule when the entrance month was a multiple of 12
+  * Fixed an error related to the logic for replacing agents that have "dummies" (multi-fuel and 3-winding transformers) - It was necessary to add 3 new columns in the datprjc.csv file (information of the replaced agent)
+  * Fixed the "optsol01.csv" report by showing an identification for project replacement
+  * Fixed an error related to executions with reliability and with the restart flag activated
+
+* OptGen 2
+  * Fixed an error related to the hourly balance of hydro plants reservoir
+  * Fixed an error related to chronological deficit costs
+  * Fixed non-thermoeletric load (gas) deficit cost when thermal costs are being considered in gas network modelling
+
 # OptGen 8.0.19
 
 📅 Date: 2023-06-29<br>
