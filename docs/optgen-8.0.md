@@ -2,6 +2,31 @@
 title: "OptGen 8.0"
 nav_order: 2
 ---
+# OptGen 8.0.21
+
+📅 Date: 2024-01-12<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.21-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.0.21-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Added an error when the user selects a user-defined expansion plan and the user-defined file is not found
+  * Fixed an error related to the inflow files for cases with SDDP Scenarios
+  * Fixed an error on the lower bound calculation when the operating cost may be negative
+
+* OptGen 2
+  * Fixed an error related to min/max constraints verification when it's not selected
+  * Fixed an error related to the maintenance of the thermal and hydro plants
+  * Fixed the unit of the reserve marginal cost (opt2_cmgres) output file
+  * Fixed an error with integer modules with a maximum number of modules equal to zero (now the project will be ignored)
+  * Fixed an error related to multiple projects substituting the same plant
+
+* IHM
+  * Fixed an error with the default values of firm capacity/energy when no plant has firm capacity/energy value defined
+
 # OptGen 8.0.20
 
 📅 Date: 2023-09-18<br>
