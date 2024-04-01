@@ -10,7 +10,11 @@ permalink: /
 
 The release notes of the current and all previous versions are just for your convenience. Please let us know if any links don’t work correctly.
 
-* Version 8.0 (current version)
+* Version 8.1 (current version)
+  * 📅 Released on: March 2024
+  * 🌐 [Release site](http://psr-energy.com/software/optgen-8.1.html)
+  * 📝 [Detailed changelog](optgen-8.1.md)
+* Version 8.0
   * 📅 Released on: June 2022
   * 🌐 [Release site](http://psr-energy.com/software/optgen-8.0.html)
   * 📖 Release notes ([Eng](https://www.psr-inc.com/wp-content/uploads/softwares/optgen/OptgenReleaseNotesEng-8.0.pdf) \| [Esp](https://www.psr-inc.com/wp-content/uploads/softwares/optgen/OptgenReleaseNotesEsp-8.0.pdf) \| [Por](https://www.psr-inc.com/wp-content/uploads/softwares/optgen/OptgenReleaseNotesPor-8.0.pdf))
@@ -20,7 +24,7 @@ The release notes of the current and all previous versions are just for your con
   * 📖 Release notes ([Eng](https://www.psr-inc.com/wp-content/uploads/softwares/optgen/OptgenReleaseNotesEng-7.4.pdf) \| [Esp](https://www.psr-inc.com/wp-content/uploads/softwares/optgen/OptgenReleaseNotesEsp-7.4.pdf) \| [Por](https://www.psr-inc.com/wp-content/uploads/softwares/optgen/OptgenReleaseNotesPor-7.4.pdf))
   * 📝 [Detailed changelog](optgen-7.4.md)
 * Version 7.2
-  * 📅 Released on: October 2021
+  * 📅 Released on: October 2016
   * 📖 Release notes ([Eng](https://www.psr-inc.com/wp-content/uploads/softwares/optgen/OptgenReleaseNotesEng-7.2.pdf) \| [Esp](https://www.psr-inc.com/wp-content/uploads/softwares/optgen/OptgenReleaseNotesEsp-7.2.pdf) \| [Por](https://www.psr-inc.com/wp-content/uploads/softwares/optgen/OptgenReleaseNotesPor-7.2.pdf))
   * 📝 [Detailed changelog](optgen-7.2.md)
 
