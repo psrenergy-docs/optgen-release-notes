@@ -2,6 +2,27 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+# OptGen 8.1.2
+
+📅 Date: 2024-04-09<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.2-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Fixed an error related to the storage of electrification elements. Now the modelling will be similar to the batteries
+  * Fixed an error related to the firm energy/capacity constraints when the case has flexible demand
+
+* OptGen 2
+  * Fixed an error in the circuit capacity output file
+
+* IHM
+  * Fixed an error in the project's importer
+  * Added a validation procedure in the min/max additional constraints data
+
 # OptGen 8.1.1
 
 📅 Date: 2024-04-01<br>
