@@ -2,6 +2,39 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+# OptGen 8.1.3
+
+📅 Date: 2024-05-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.3-setup-linux.zip)
+
+## New Features
+
+* IHM
+  * Improved the model's dashboard
+  * Improved loading time of minimum/maximum constraints
+
+## Fixed Bugs
+
+* OptGen 1
+  * Fixed an error updating NetPlan expansion files after the optimal expansion plan is found
+  * Fixed an error related to the hotstart on linux machines (or PSRCloud)
+  * Fixed an error related to the inflows when SDDP's policy is fixed along OptGen's iterations
+
+* OptGen 2
+  * Fixed an error related to the hotstart on linux machines (or PSRCloud)
+  * Fixed an error related to joint reserve of DPR + Absolute when the Absolute requirement is 0
+  * Fixed an error related to infeasibility calculation of minimum/maximum constraints
+  * Fixed an error related to the compatibilization with SDDP's general constraints
+  * Fixed an error in cases with NetPlan and phase-shifter
+  * Fixed an error related to the automatic generation of typical days mapping when it's not found
+  * Fixed an error related to hydro plants with maintenance and individual reserve defined
+
+* IHM
+  * Fixed an error on the selection of critical scenarios (resilience planning)
+
 # OptGen 8.1.2
 
 📅 Date: 2024-04-09<br>
