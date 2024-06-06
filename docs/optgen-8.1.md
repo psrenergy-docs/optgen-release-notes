@@ -2,6 +2,30 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+# OptGen 8.1.4
+
+📅 Date: 2024-06-06<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.4-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 2
+  * Fixed an error related to SDDP generic constraint
+  * Fixed an error related to the delay on precedence constraint
+  * Fixed an error related to the outputs after a PSRCloud restart happens
+  * Fixed an error related to SDDP's contract
+  * Fixed an error related to the logic of number of scenarios when there's no renewable station in the database
+  * Fixed interconnection capacity for future agents that are not projects
+
+* IHM
+  * Fixed an error related to the importation of SDDP modification into user-defined expansion plan
+  * Fixed an error on the header of the datmcap.csv file
+  * Fixed an error related to the default firm energy/capacity unit
+  * Fixed an error related to the system and type of the agents being replaced by projects
+
 # OptGen 8.1.3
 
 📅 Date: 2024-05-15<br>
