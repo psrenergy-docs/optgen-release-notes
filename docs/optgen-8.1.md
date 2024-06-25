@@ -2,6 +2,27 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+# OptGen 8.1.5
+
+📅 Date: 2024-06-25<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.5-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Increased the maximum number of circuits modification allowed
+
+* OptGen 2
+  * Fixed an error related to fuel contracts constraints
+  
+## New Features
+
+* OptGen 2
+  * Added an option to identify excess generation during the expansion planning phase (RXGM,1 in the datoption.csv file)
+
 # OptGen 8.1.4
 
 📅 Date: 2024-06-06<br>
