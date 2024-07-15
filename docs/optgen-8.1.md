@@ -2,6 +2,20 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+# OptGen 8.1.6
+
+📅 Date: 2024-07-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.6-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Increased the maximum number of circuits modification allowed
+  * Improved integration with PSRCloud
+
 # OptGen 8.1.5
 
 📅 Date: 2024-06-25<br>
