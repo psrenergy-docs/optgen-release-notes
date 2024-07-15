@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "OptGen releases"
+description: "OptGen changelog"
 permalink: /
 ---
 
-# OptGen release notes
+# OptGen changelog
 
 The release notes of the current and all previous versions are just for your convenience. Please let us know if any links don’t work correctly.
 
