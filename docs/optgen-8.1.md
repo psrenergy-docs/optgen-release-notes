@@ -2,6 +2,30 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+# OptGen 8.1.7
+
+📅 Date: 2024-08-30<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.7-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Fixed an error related to substitution of multi-fuel thermal plants
+  * Fixed an error related to the expansion of transmission lines (improved the Big-M value considering the monitoring status)
+  * Fixed an error related to projects defined in the user-defined expansion plan in dates out of the horizon when the project is not selected to belong to the study
+  * Fixed an error related to the resilience module when the case has dynamic probabilistic reserve
+  * Improved the convergence report in the model's dashboard
+
+* OptGen 2
+  * Fixed an error when there are free contracts defined
+
+* IHM
+  * Fixed the 3-winding transformer capacity in the project's list
+  * Fixed an error loading precedence constraints
+
 # OptGen 8.1.6
 
 📅 Date: 2024-07-15<br>
