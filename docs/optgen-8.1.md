@@ -2,6 +2,21 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+# OptGen 8.1.8
+
+📅 Date: 2024-09-09<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.8-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 2
+  * Fixed an error related to the firm capacity of renewable plants on executions with restart (from PSRCloud or directly from the interface)
+  * Fixed an error related to the aggregation of input data that varies per block to typical day (sum constraints for example)
+  * Fixed an error related to the expansion plan the execution of the model is restarted from PSRCloud an a sub-optimal feasible solution is found
+
 # OptGen 8.1.7
 
 📅 Date: 2024-08-30<br>
