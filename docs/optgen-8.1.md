@@ -2,6 +2,27 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+# OptGen 8.1.9
+
+📅 Date: 2024-10-08<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.9-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Fixed an error when reading initial conditions of state variables in the operation problem
+  * Fixed an error when printing investment and reimbursement costs in the execution report, for the project expansion schedule when there is reinforcement
+  * Implementation of logic to obtain values of dual variables for Minimum and Maximum capacity constraints
+  * Logic implemented for running the case with typical day representation
+
+* OptGen 2
+  * Fixed outputs of fuel consumption when there are fuel contract renewals
+  * Fixed outputs of absolute quantities by stages
+  * Fixed output of flow in DC links
+
 # OptGen 8.1.8
 
 📅 Date: 2024-09-09<br>
