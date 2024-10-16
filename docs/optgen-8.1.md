@@ -2,6 +2,22 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+# OptGen 8.1.10
+
+📅 Date: 2024-10-16<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.10-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.10-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Fixed an error related to associativity constraints without a maximum delay when the case has multiple rolling horizons
+
+* OptGen 2
+  * Fixed battery project operative lifetime when it has a substitution constraint defined (for example, a project A replaces battery B that have operative lifetime). The model was ignoring the operative lifetime.
+
 # OptGen 8.1.9
 
 📅 Date: 2024-10-08<br>
