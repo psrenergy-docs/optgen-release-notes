@@ -21,6 +21,7 @@ nav_order: 2
 * IHM
   * Fixed an error defining firm capacity/energy constraints (the interface was corrupting the file and the model was considering the values in MWavg instead of p.u)
   * NID projects now can only have investment cost in M$  
+  * Improve the "Compact case data" functionality to include execution reports and important model's output to analyze a simulation
 
 # OptGen 8.1.10
 
