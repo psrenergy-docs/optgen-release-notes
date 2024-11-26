@@ -2,6 +2,26 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+# OptGen 8.1.11
+
+📅 Date: 2024-11-26<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.11-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.11-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Fixed an error in the convergence report file when the model restarts in a PSRCloud execution
+
+* OptGen 2
+  * Fixed an error in SDDP's generic constraints penalty
+
+* IHM
+  * Fixed an error defining firm capacity/energy constraints (the interface was corrupting the file and the model was considering the values in MWavg instead of p.u)
+  * NID projects now can only have investment cost in M$  
+
 # OptGen 8.1.10
 
 📅 Date: 2024-10-16<br>
