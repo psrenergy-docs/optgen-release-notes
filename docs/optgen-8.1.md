@@ -2,6 +2,24 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+# OptGen 8.1.12
+
+📅 Date: 2024-12-19<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.12-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.12-setup-linux.zip)
+
+## Fixed Bugs
+
+* IHM
+  * Fixed an error related to PSRIO scripts considering battery generation and load marginal cost
+
+## New Features
+
+* OptGen 2
+  * Added reduced cost output for investment decision variables
+
 # OptGen 8.1.11
 
 📅 Date: 2024-11-26<br>
