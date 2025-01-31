@@ -14,7 +14,7 @@ nav_order: 2
 ## Fixed Bugs
 
 * OptGen 1
-  * Fixed an issue by ignoring min/max constraints with a maximum date beyond the planning horizon that include projects wih  operational lifetime, preventing infeasibility problems.
+  * Fixed an issue related to min/max constraints with a maximum date beyond the planning horizon that include projects wih operational lifetime, preventing infeasibility problems.
 
 * OptGen 2
   * Fixed the calculation of generic constraint penalties in the objective function and implements the option for hard generic constraints, avoiding unnecessary creation of slack variables.
