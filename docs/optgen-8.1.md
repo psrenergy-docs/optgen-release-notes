@@ -2,6 +2,28 @@
 title: "OptGen 8.1"
 nav_order: 2
 ---
+
+# OptGen 8.1.13
+
+📅 Date: 2025-01-31<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.13-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.1.13-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Fixed an issue by ignoring min/max constraints with a maximum date beyond the planning horizon that include projects wih  operational lifetime, preventing infeasibility problems.
+
+* OptGen 2
+  * Fixed the calculation of generic constraint penalties in the objective function and implements the option for hard generic constraints, avoiding unnecessary creation of slack variables.
+
+## New Features
+
+* OptGen
+  * Adds validation for rolling horizon runs when the horizon configuration is invalid and there is a discontinuity between them.
+
 # OptGen 8.1.12
 
 📅 Date: 2024-12-19<br>
