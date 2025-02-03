@@ -10,7 +10,11 @@ permalink: /
 
 The release notes of the current and all previous versions are just for your convenience. Please let us know if any links don’t work correctly.
 
-* Version 8.1 (current version)
+* Version 8.2 (current version)
+  * 📅 Released on: January 2025
+  * 🌐 [Release site](http://psr-energy.com/software/optgen-8.2.html)
+  * 📝 [Detailed changelog](optgen-8.2.md)
+* Version 8.1
   * 📅 Released on: March 2024
   * 🌐 [Release site](http://psr-energy.com/software/optgen-8.1.html)
   * 📝 [Detailed changelog](optgen-8.1.md)
