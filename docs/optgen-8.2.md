@@ -3,6 +3,23 @@ title: "OptGen 8.2"
 nav_order: 2
 ---
 
+# OptGen 8.2.2
+
+📅 Date: 2025-03-31<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.2.2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.2.2-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Fixed the consideration of NID projects' capacity with integer investment variables in user-defined expansion plans
+  * Fixed an error that caused the elimination of decisions of integer projects present in the user-defined expansion plan
+
+* OptGen 2
+  * Fixed the calculation of the annualized investment cost for projects with a defined construction time
+  * Fixed the modeling of generic constraints with stage resolution in the operational problem
 
 # OptGen 8.2.1
 
