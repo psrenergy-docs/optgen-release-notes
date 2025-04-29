@@ -3,6 +3,25 @@ title: "OptGen 8.2"
 nav_order: 2
 ---
 
+# OptGen 8.2.3
+
+📅 Date: 2025-04-29<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.2.3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.2.3-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Automatically disables the Efficient Frontier calculation option in cases with a fixed plan to avoid errors
+  * Fixed error messages that indicated "warning" but resulted in a fatal errors in the model
+
+* OptGen 2
+  * Fixed an error related to the infeasibility of decommissioned plants due to chronological minimum generation
+  * Fixed an error in considering the hydro volume variable in each season in the generic constraints per stage in OptGen 2
+  * Fixed the unit of joint and individual reserve data
+
 # OptGen 8.2.2
 
 📅 Date: 2025-03-31<br>
