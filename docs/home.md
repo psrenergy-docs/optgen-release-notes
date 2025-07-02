@@ -10,7 +10,13 @@ permalink: /
 
 The release notes of the current and all previous versions are just for your convenience. Please let us know if any links don’t work correctly.
 
-* Version 8.2 (current version)
+Since version 9.0, OptGen is integrated in SDDP Platform, so please refer to https://sddp-release-notes.psr-inc.com/ for release notes regarding the capacity expansion model.
+
+* Version 9.0
+  * 📅 Released on: July 2025
+  * 🌐 [Release site](http://psr-energy.com/software/sddp-18.0.html)
+  * 📝 [Detailed changelog](https://sddp-release-notes.psr-inc.com/)
+* Version 8.2
   * 📅 Released on: February 2025
   * 🌐 [Release site](http://psr-energy.com/software/optgen-8.2.html)
   * 📝 [Detailed changelog](optgen-8.2.md)
