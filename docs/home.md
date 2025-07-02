@@ -10,7 +10,9 @@ permalink: /
 
 The release notes of the current and all previous versions are just for your convenience. Please let us know if any links don’t work correctly.
 
-Since version 9.0, OptGen is integrated in SDDP Platform, so please refer to https://sddp-release-notes.psr-inc.com/ for release notes regarding the capacity expansion model.
+From version 9.0 onwards, OptGen will be included in the SDDP 18 platform, providing seamless integration with advanced optimization capabilities.
+
+Please refer to https://sddp-release-notes.psr-inc.com/ for the release notes regarding the capacity expansion model.
 
 * Version 9.0
   * 📅 Released on: July 2025
