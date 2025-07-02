@@ -3,6 +3,29 @@ title: "OptGen 8.2"
 nav_order: 2
 ---
 
+# OptGen 8.2.4
+
+📅 Date: 2025-07-02<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.2.4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=optgen-8.2.4-setup-linux.zip)
+
+## Fixed Bugs
+
+* OptGen 1
+  * Updating the format of the batteries modification file
+  * Fix a performance issue in cases with a larger number of demands defined
+
+* OptGen 2
+  * Fixed an error related to batteries in generic constraints
+  * Fixed an error related to DCLinks in reserve constraints
+  * Improve the infeasibility check to verify decision variable bounds (such as minimum generation greater the installed capacity)
+ 
+* IHM
+  * Fixed an error related to final date of of min/max capacity constraints
+  * Fixed an error related to saving generic constraints
+
 # OptGen 8.2.3
 
 📅 Date: 2025-04-29<br>
